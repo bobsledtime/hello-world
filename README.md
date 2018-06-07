@@ -1,2 +1,2 @@
 # hello-world
-Let's do it!
+Ponies are great.
